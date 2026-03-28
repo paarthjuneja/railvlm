@@ -1,0 +1,7 @@
+path: "c:/Users/paart/OneDrive/Desktop/code/Railway-Inspection-Using-AI/data"
+train: "images/train"
+val: "images/val"
+
+names:
+  0: Defective
+  
