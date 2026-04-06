@@ -8,13 +8,12 @@ The platform also provides real-time alerts and generates detailed maintenance r
 
 By integrating computer vision with explainable AI, RailVLM enhances railway safety, minimizes human error, and improves overall inspection efficiency.
 
-# Features (Present / To be added)
+# Features
 
 - Real-time webcam fault detection
 - Fault detection via uploaded video
-- Explainable AI analysis of the vault using a VLM (Moondream2)
+- Explainable AI analysis of the vault using a VLM (Moondream2 / Gemini)
 - Complete fault report PDF generation
-- Data storage via SQLite3
 
 # Screenshot
 
